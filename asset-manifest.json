@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Itish_kumar_pati/static/css/main.b2eaf2f8.css",
+    "main.js": "/Itish_kumar_pati/static/js/main.c2d08b73.js",
+    "static/js/488.9e51c7c4.chunk.js": "/Itish_kumar_pati/static/js/488.9e51c7c4.chunk.js",
+    "static/media/pokemon.png": "/Itish_kumar_pati/static/media/pokemon.914f464de75d2bd63b8a.png",
+    "static/media/bgRemover.png": "/Itish_kumar_pati/static/media/bgRemover.26b7986c557ae066d58f.png",
+    "static/media/face.jfif": "/Itish_kumar_pati/static/media/face.d3466caba35573f8d654.jfif",
+    "static/media/event.jpg": "/Itish_kumar_pati/static/media/event.615a3ff590b70ef53494.jpg",
+    "static/media/itish.jpg": "/Itish_kumar_pati/static/media/itish.3d2bffd54d6e2b6aece8.jpg",
+    "static/media/login.jpg": "/Itish_kumar_pati/static/media/login.095bbcfdb8b611c260b3.jpg",
+    "static/media/college.jpg": "/Itish_kumar_pati/static/media/college.5a01b76e740a7084ccb1.jpg",
+    "static/media/scaler.jpg": "/Itish_kumar_pati/static/media/scaler.36b798ce85b16b12d850.jpg",
+    "index.html": "/Itish_kumar_pati/index.html",
+    "main.b2eaf2f8.css.map": "/Itish_kumar_pati/static/css/main.b2eaf2f8.css.map",
+    "main.c2d08b73.js.map": "/Itish_kumar_pati/static/js/main.c2d08b73.js.map",
+    "488.9e51c7c4.chunk.js.map": "/Itish_kumar_pati/static/js/488.9e51c7c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2eaf2f8.css",
+    "static/js/main.c2d08b73.js"
+  ]
+}
